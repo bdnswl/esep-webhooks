@@ -15,3 +15,5 @@ C:\Users\Brandon\Desktop\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\n
 C:\Users\Brandon\Desktop\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.pdb
 C:\Users\Brandon\Desktop\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\Brandon\Desktop\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\Brandon\Desktop\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\Brandon\Desktop\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.sourcelink.json
